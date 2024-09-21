@@ -1,0 +1,19 @@
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.more1{
+    text-align: center;
+}
+.more2[value=2]{
+    text-align: left;
+}
+.pwebsite{
+    text-align: center;
+}
+.more3{
+    text-align: center;
+}
